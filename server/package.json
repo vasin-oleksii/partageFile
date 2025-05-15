@@ -1,0 +1,10 @@
+{
+  "name": "juggernaut",
+  "version": "1.0.0",
+  "description": "BackEnd for PartageFile",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node index.js"
+  }
+}
